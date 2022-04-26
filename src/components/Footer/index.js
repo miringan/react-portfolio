@@ -1,7 +1,5 @@
 import { Col, Container, Row, Image } from "react-bootstrap";
 
-import gitHubLogo from '../../assets/images/GitHub-Mark-Light-64px.png';
-
 const styles = {
   footerStyle:{
     position:"relative",
